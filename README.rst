@@ -7,3 +7,8 @@ This repository holds the code for **potentiostApp**, a PyQt5-based graphical us
 Documentation
 =============
 The documentation for this project can be found `here <https://potentiostapp.readthedocs.io/en/latest/>`_.
+
+=====
+Notes
+=====
+This project is under active development.

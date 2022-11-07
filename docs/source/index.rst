@@ -6,11 +6,11 @@
 Welcome to potentiostApp's documentation!
 =========================================
 **potentiostApp** is a PyQt5-based graphical user interface specifically designed to work with *embedStat* <https://github.com/AndreaRescalli/embedStat>, 
-a microcontroller-based, portable potentiostat developed during my PhD
+a microcontroller-based, portable potentiostat developed during my PhD.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and has its documentation hosted on Read the Docs.
 
 .. toctree::
    :maxdepth: 2

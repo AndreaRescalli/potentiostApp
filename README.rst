@@ -1,6 +1,9 @@
-===========
-Description
-===========
+=========================
+potentiostApp description
+=========================
+.. image:: https://readthedocs.org/projects/potentiostapp/badge/?version=latest
+    :target: https://potentiostapp.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 This repository holds the code for **potentiostApp**, a PyQt5-based graphical user interface specifically designed to work with `embedStat <https://github.com/AndreaRescalli/embedStat>`_, a microcontroller-based, portable potentiostat developed during my PhD.
 
 =============
